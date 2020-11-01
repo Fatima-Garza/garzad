@@ -1,4 +1,6 @@
 package hilos;
+
+ 
 public class Hilo implements Runnable
 {
 	private String nombre;
